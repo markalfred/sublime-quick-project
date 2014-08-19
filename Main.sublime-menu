@@ -1,0 +1,15 @@
+[
+    {
+        "id": "project",
+        "children":
+        [
+            {
+                "caption": "-"
+            },
+            {
+                "caption": "Quick Create Project",
+                "command": "quick_create_project"
+            }
+        ]
+    }
+]
